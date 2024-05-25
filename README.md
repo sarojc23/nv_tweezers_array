@@ -1,2 +1,2 @@
 # Spatial_Light_Modulator_Thorlabs_SLM
-This thorlab slm based on slmsuite form QPG
+This project is dedicated to creating, optimizing, and manipulating holograms using a Spatial Light Modulator (SLM). The main functionalities include generating spot arrays, implementing phase shifts, real-time dynamic tweezers, and calibrating coordinate systems between different cameras.
