@@ -7,7 +7,7 @@ import numpy as np
 from PIL import Image
 
 import sys
-sys.path.append('c:/Users/Saroj Chand/Documents/dioptric/servers/inputs')
+sys.path.append('c:/Users/Saroj Chand/Documents/dioptric')
 from slmsuite.holography import toolbox
 from slmsuite.misc.math import INTEGER_TYPES
 from slmsuite.holography import analysis
